@@ -38,3 +38,14 @@
 		padding: 0;
 	}
 }
+@media screen and (min-width: 986px) {
+	.searchbutton {
+	    margin-left: -11%;
+	    width: 10%;
+	    border: none;
+	    background: #1DBF73;
+	    padding: 2%;
+	    color: white;
+	    transition: all .3s ease-in-out;
+	}
+}

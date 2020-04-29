@@ -46,16 +46,15 @@ img {
     padding: 0 !important;
 }
 .searchbutton {
-    margin-left: -21%;
-    width: 20%;
+    margin-left: -18%;
+    width: 15%;
     border: none;
     background: #1DBF73;
-    border-radius: 50px;
     padding: 2%;
     color: white;
     transition: all .3s ease-in-out;
 }
-.searchbutton:hover {
+/*.searchbutton:hover {
     margin-left: -41%;
     width: 40%;
     border: none;
@@ -64,15 +63,17 @@ img {
     padding: 2%;
     text-align: center;
     color: white;
-}
+}*/
 .inputsearch {
     width: 90%;
     padding: 2%;
-    border-radius: 50px;
     border: 2px #1DBF73 solid;
 }
 ul {
     list-style: none;
+}
+.numbering {
+    font-size: 1.25em;
 }
 .quote {
     color: #1DBF73 !important;
